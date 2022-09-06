@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "デバッグ",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}\\main.py",
+            "python": "C:\\Users\\内海\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+            "justMyCode": true
+        }
+    ]
+}
